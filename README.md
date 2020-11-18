@@ -1,0 +1,1 @@
+"Nazov a popis projektu" 
